@@ -1,0 +1,126 @@
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 1
+Number of features: 0
+Seq('AGTTGTTAGTCTACGTGGACCGACAAGAACAGTTTCGAATCGGAAGCTTGCTTA...ACG')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 2
+Number of features: 0
+Seq('AGGGGGAGAGCCACACATGATAGTTAGTAAGCAGGAAAGAGGAAAGTCACTCTT...GAC')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 3
+Number of features: 0
+Seq('AAACGTTCCGTGGCACTGGCCCCACATGTGGGACTTGGTCTAGAAACAAGAACC...TGT')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 4
+Number of features: 0
+Seq('CGACGAACGTTTGTGGACAGAGGCTGGGGTAATGGCTGCGGACTATTTGGAAAA...TTA')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 5
+Number of features: 0
+Seq('CATTCAAGACAGCTCATGCAAAGAAACAGGAAGTAGTCGTACTGGGATCACAGG...ATG')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 6
+Number of features: 0
+Seq('GCTATCCTGGGAGACACCGCATGGGACTTCGGCTCTATAGGAGGAGTGTTCACA...GCC')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 7
+Number of features: 0
+Seq('ATTGGAAAGGCATGGGAGGAGGGCGTGTGTGGAATTCGATCAGCCACGCGTCTT...GAA')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 8
+Number of features: 0
+Seq('AGTGAAATGATAATCCCAAAGATATATGGAGGACCAATATCTCAGCACAACTAC...AAC')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 9
+Number of features: 0
+Seq('ACTGGCTGTTTTCCTCCTTCTTATAATGGGACAACTGACATGGAATGATCTGAT...AAA')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 10
+Number of features: 0
+Seq('GTTGGCCCCTCAATGAAGGAATTATGGCTATTGGAATAGTCAGCATTCTACTAA...CGT')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 11
+Number of features: 0
+Seq('GTTCCACACAATGTGGCACGTCACCAGGGGAGCTGTCCTTATGTACCAAGGGAA...AAG')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 12
+Number of features: 0
+Seq('GGAATGCCAATAAGATATCAGACAACAGCAGTGAAGAGTGAGCACACAGGAAGG...ATT')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 13
+Number of features: 0
+Seq('GGAAGGAGCCAAAACAAGGAAGGTGATCAGTATGTTTACATGGGACAGCCTTTA...CTC')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 14
+Number of features: 0
+Seq('AGGTGACCTAATATTGGAAATAGGGAAACTTCCACAACATTTGACGCTAAGAGC...GTT')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 15
+Number of features: 0
+Seq('ATCACTCCCATGATGAGACACACAATTGAAAATACAACGGCAAACATTTCCTTG...CAT')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 16
+Number of features: 0
+Seq('GCAGTGTCGAGAGGAACAGCCAAACTGAGGTGGTTTGTGGAGAGGAACCTCGTG...ACA')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 17
+Number of features: 0
+Seq('AGACATGTGGCAGTGGAACCAGAGGTAGCCAACCTAGATATCATTGGCCAGAGG...ACA')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 18
+Number of features: 0
+Seq('TATCAAAGATTCCGGGGGGAAATATGTATGCAGATGATACAGCCGGATGGGATA...AGT')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 19 3AAGAAAAGACATACCGCAGTGGGAACCTTC
+Number of features: 0
+Seq('AAAAGGATGGAATGATTGGCAGCAAGTGCCTTTCTGTTCACACCATTTTCACCA...ACA')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 20
+Number of features: 0
+Seq('TGTTATCAGTGTGGAATAGGGTTTGGATAGAGGAAAACCCATGGATGGAGGACA...AGG')
+
+ID: AF226685.2
+Name: AF226685.2
+Description: AF226685.2 Dengue virus type 1 strain Den1BR/90, complete genome segment 21
+Number of features: 0
+Seq('AAAATAGAAGATCAAATAAAGTAAGAAGTCAGGCCAGATTAAGCCATAGTACGG...TCT')

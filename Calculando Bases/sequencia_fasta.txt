@@ -1,0 +1,5 @@
+Contagem de bases no arquivo fasta:
+A : 3423
+T : 2327
+C : 2185
+G : 2800

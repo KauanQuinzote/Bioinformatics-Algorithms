@@ -1,0 +1,20 @@
+links para ler:
+
+https://biopython.org/wiki/Seq
+https://biopython.org/wiki/SeqRecord
+
+Importante:
+
+seq_record é uma variável que representa um registro de sequência biológica. Quando usamos o SeqIO.parse() do Biopython para ler um arquivo FASTA (ou outro formato de arquivo de sequência), ele retorna esses registros de sequência como objetos SeqRecord.
+
+Um objeto SeqRecord contém várias informações associadas a uma sequência biológica, incluindo o ID da sequência, a própria sequência e quaisquer metadados adicionais, como descrição, anotações, etc.
+
+Portanto, quando iteramos sobre os resultados de SeqIO.parse(), cada seq_record representa um registro de sequência biológica individual no arquivo FASTA (ou outro formato). Podemos acessar os diferentes atributos desse registro, como o ID da sequência (seq_record.id), a sequência em si (seq_record.seq), e outros metadados, dependendo do que está presente no arquivo.
+
+
+
+A SeqIO é uma função ou módulo em várias bibliotecas Python usadas ​​para trabalhar com sequências biológicas, como sequências de DNA, RNA ou proteínas. Geralmente, é parte de bibliotecas específicas de bioinformática, como Biopython.
+
+Essa função ou módulo SeqIO serve para ler, gravar e manipular arquivos contendo sequências biológicas em diversos formatos comuns, como FASTA, GenBank, EMBL, entre outros. Ele simplifica muito o processo de leitura e escrita de dados de sequências biológicas em Python, oferecendo uma maneira fácil de acessar e manipular essas informações.
+
+Por exemplo, com o SeqIO, você pode ler um arquivo FASTA contendo sequências de DNA, analisá-lo, realizar operações como tradução de sequências, identificação de regiões codificadoras e muito mais, tudo dentro do ambiente Python de forma eficiente e flexível. Isso é particularmente útil para análise de dados genômicos e estudos de bioinformática.
