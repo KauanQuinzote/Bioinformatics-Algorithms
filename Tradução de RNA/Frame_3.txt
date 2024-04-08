@@ -502,3 +502,1035 @@ Sequencia : 21
 	Codão de terminação : 8
 	Codão de terminação : 5
 
+Sequencia : 1
+	Metionina : 10
+	Fenilalanina : 14
+	Fenilalanina : 12
+	Leucina : 5
+	Leucina : 7
+	Leucina : 5
+	Leucina : 6
+	Leucina : 5
+	Leucina : 7
+	Isoleucina : 9
+	Isoleucina : 5
+	Isoleucina : 4
+	Valina : 9
+	Valina : 4
+	Valina : 1
+	Valina : 5
+	Cisteína : 3
+	Cisteína : 8
+	Triptofano : 9
+	Codão de terminação : 4
+	Codão de terminação : 6
+	Codão de terminação : 9
+
+Sequencia : 1
+	Metionina : 10
+	Fenilalanina : 14
+	Fenilalanina : 12
+	Leucina : 5
+	Leucina : 7
+	Leucina : 5
+	Leucina : 6
+	Leucina : 5
+	Leucina : 7
+	Isoleucina : 9
+	Isoleucina : 5
+	Isoleucina : 4
+	Valina : 9
+	Valina : 4
+	Valina : 1
+	Valina : 5
+	Cisteína : 3
+	Cisteína : 8
+	Triptofano : 9
+	Codão de terminação : 4
+	Codão de terminação : 6
+	Codão de terminação : 9
+
+Sequencia : 2
+	Metionina : 10
+	Fenilalanina : 2
+	Fenilalanina : 1
+	Leucina : 3
+	Leucina : 4
+	Leucina : 1
+	Leucina : 6
+	Leucina : 2
+	Leucina : 4
+	Isoleucina : 2
+	Isoleucina : 1
+	Isoleucina : 2
+	Valina : 5
+	Valina : 2
+	Valina : 1
+	Valina : 5
+	Cisteína : 4
+	Cisteína : 7
+	Triptofano : 5
+	Codão de terminação : 2
+	Codão de terminação : 2
+	Codão de terminação : 7
+
+Sequencia : 3
+	Metionina : 12
+	Fenilalanina : 11
+	Fenilalanina : 5
+	Leucina : 2
+	Leucina : 12
+	Leucina : 8
+	Leucina : 3
+	Leucina : 4
+	Leucina : 9
+	Isoleucina : 9
+	Isoleucina : 4
+	Isoleucina : 6
+	Valina : 2
+	Valina : 7
+	Valina : 1
+	Valina : 12
+	Cisteína : 7
+	Cisteína : 9
+	Triptofano : 20
+	Codão de terminação : 2
+	Codão de terminação : 5
+	Codão de terminação : 9
+
+Sequencia : 4
+	Metionina : 8
+	Fenilalanina : 5
+	Fenilalanina : 5
+	Leucina : 5
+	Leucina : 10
+	Leucina : 9
+	Leucina : 4
+	Leucina : 9
+	Leucina : 10
+	Isoleucina : 6
+	Isoleucina : 2
+	Isoleucina : 6
+	Valina : 5
+	Valina : 4
+	Valina : 1
+	Valina : 9
+	Cisteína : 6
+	Cisteína : 7
+	Triptofano : 15
+	Codão de terminação : 5
+	Codão de terminação : 5
+	Codão de terminação : 9
+
+Sequencia : 5
+	Metionina : 13
+	Fenilalanina : 8
+	Fenilalanina : 5
+	Leucina : 3
+	Leucina : 6
+	Leucina : 5
+	Leucina : 2
+	Leucina : 5
+	Leucina : 9
+	Isoleucina : 3
+	Isoleucina : 6
+	Isoleucina : 6
+	Valina : 5
+	Valina : 5
+	Valina : 3
+	Valina : 8
+	Cisteína : 4
+	Cisteína : 9
+	Triptofano : 9
+	Codão de terminação : 6
+	Codão de terminação : 6
+	Codão de terminação : 13
+
+Sequencia : 6
+	Metionina : 10
+	Fenilalanina : 7
+	Fenilalanina : 9
+	Leucina : 2
+	Leucina : 8
+	Leucina : 4
+	Leucina : 4
+	Leucina : 3
+	Leucina : 9
+	Isoleucina : 7
+	Isoleucina : 4
+	Isoleucina : 5
+	Valina : 8
+	Valina : 5
+	Valina : 4
+	Valina : 7
+	Cisteína : 10
+	Cisteína : 3
+	Triptofano : 16
+	Codão de terminação : 3
+	Codão de terminação : 4
+	Codão de terminação : 5
+
+Sequencia : 7
+	Metionina : 21
+	Fenilalanina : 8
+	Fenilalanina : 6
+	Leucina : 1
+	Leucina : 10
+	Leucina : 4
+	Leucina : 5
+	Leucina : 7
+	Leucina : 8
+	Isoleucina : 9
+	Isoleucina : 9
+	Isoleucina : 9
+	Valina : 4
+	Valina : 4
+	Valina : 3
+	Valina : 10
+	Cisteína : 7
+	Cisteína : 6
+	Triptofano : 23
+	Codão de terminação : 4
+	Codão de terminação : 5
+	Codão de terminação : 14
+
+Sequencia : 8
+	Metionina : 16
+	Fenilalanina : 6
+	Fenilalanina : 3
+	Leucina : 4
+	Leucina : 10
+	Leucina : 2
+	Leucina : 4
+	Leucina : 6
+	Leucina : 4
+	Isoleucina : 6
+	Isoleucina : 9
+	Isoleucina : 7
+	Valina : 9
+	Valina : 5
+	Valina : 4
+	Valina : 7
+	Cisteína : 7
+	Cisteína : 5
+	Triptofano : 14
+	Codão de terminação : 4
+	Codão de terminação : 5
+	Codão de terminação : 12
+
+Sequencia : 9
+	Metionina : 23
+	Fenilalanina : 14
+	Fenilalanina : 15
+	Leucina : 15
+	Leucina : 10
+	Leucina : 17
+	Leucina : 6
+	Leucina : 9
+	Leucina : 11
+	Isoleucina : 13
+	Isoleucina : 10
+	Isoleucina : 2
+	Valina : 10
+	Valina : 3
+	Valina : 4
+	Valina : 3
+	Cisteína : 9
+	Cisteína : 7
+	Triptofano : 23
+	Codão de terminação : 6
+	Codão de terminação : 5
+	Codão de terminação : 9
+
+Sequencia : 10
+	Metionina : 16
+	Fenilalanina : 10
+	Fenilalanina : 4
+	Leucina : 6
+	Leucina : 9
+	Leucina : 5
+	Leucina : 11
+	Leucina : 8
+	Leucina : 5
+	Isoleucina : 7
+	Isoleucina : 6
+	Isoleucina : 9
+	Valina : 7
+	Valina : 6
+	Valina : 5
+	Valina : 8
+	Cisteína : 9
+	Cisteína : 4
+	Triptofano : 17
+	Codão de terminação : 5
+	Codão de terminação : 6
+	Codão de terminação : 9
+
+Sequencia : 11
+	Metionina : 9
+	Fenilalanina : 5
+	Fenilalanina : 3
+	Leucina : 6
+	Leucina : 8
+	Leucina : 7
+	Leucina : 8
+	Leucina : 4
+	Leucina : 9
+	Isoleucina : 3
+	Isoleucina : 10
+	Isoleucina : 8
+	Valina : 7
+	Valina : 7
+	Valina : 5
+	Valina : 11
+	Cisteína : 8
+	Cisteína : 5
+	Triptofano : 15
+	Codão de terminação : 7
+	Codão de terminação : 6
+	Codão de terminação : 9
+
+Sequencia : 12
+	Metionina : 17
+	Fenilalanina : 13
+	Fenilalanina : 9
+	Leucina : 10
+	Leucina : 7
+	Leucina : 6
+	Leucina : 4
+	Leucina : 4
+	Leucina : 10
+	Isoleucina : 14
+	Isoleucina : 11
+	Isoleucina : 6
+	Valina : 7
+	Valina : 5
+	Valina : 7
+	Valina : 12
+	Cisteína : 7
+	Cisteína : 10
+	Triptofano : 11
+	Codão de terminação : 8
+	Codão de terminação : 4
+	Codão de terminação : 18
+
+Sequencia : 13
+	Metionina : 9
+	Fenilalanina : 8
+	Fenilalanina : 2
+	Leucina : 3
+	Leucina : 10
+	Leucina : 4
+	Leucina : 8
+	Leucina : 3
+	Leucina : 6
+	Isoleucina : 2
+	Isoleucina : 8
+	Isoleucina : 5
+	Valina : 9
+	Valina : 1
+	Valina : 3
+	Valina : 8
+	Cisteína : 3
+	Cisteína : 9
+	Triptofano : 13
+	Codão de terminação : 4
+	Codão de terminação : 1
+	Codão de terminação : 8
+
+Sequencia : 14
+	Metionina : 16
+	Fenilalanina : 6
+	Fenilalanina : 8
+	Leucina : 3
+	Leucina : 14
+	Leucina : 7
+	Leucina : 8
+	Leucina : 12
+	Leucina : 12
+	Isoleucina : 11
+	Isoleucina : 3
+	Isoleucina : 11
+	Valina : 8
+	Valina : 3
+	Valina : 3
+	Valina : 12
+	Cisteína : 11
+	Cisteína : 10
+	Triptofano : 21
+	Codão de terminação : 3
+	Codão de terminação : 12
+	Codão de terminação : 12
+
+Sequencia : 15
+	Metionina : 17
+	Fenilalanina : 5
+	Fenilalanina : 8
+	Leucina : 10
+	Leucina : 14
+	Leucina : 10
+	Leucina : 10
+	Leucina : 8
+	Leucina : 14
+	Isoleucina : 14
+	Isoleucina : 13
+	Isoleucina : 11
+	Valina : 8
+	Valina : 3
+	Valina : 4
+	Valina : 10
+	Cisteína : 9
+	Cisteína : 7
+	Triptofano : 19
+	Codão de terminação : 5
+	Codão de terminação : 11
+	Codão de terminação : 20
+
+Sequencia : 16
+	Metionina : 20
+	Fenilalanina : 6
+	Fenilalanina : 6
+	Leucina : 6
+	Leucina : 5
+	Leucina : 3
+	Leucina : 10
+	Leucina : 7
+	Leucina : 15
+	Isoleucina : 8
+	Isoleucina : 5
+	Isoleucina : 7
+	Valina : 6
+	Valina : 7
+	Valina : 5
+	Valina : 21
+	Cisteína : 16
+	Cisteína : 7
+	Triptofano : 23
+	Codão de terminação : 4
+	Codão de terminação : 7
+	Codão de terminação : 15
+
+Sequencia : 17
+	Metionina : 25
+	Fenilalanina : 10
+	Fenilalanina : 9
+	Leucina : 8
+	Leucina : 9
+	Leucina : 6
+	Leucina : 6
+	Leucina : 5
+	Leucina : 6
+	Isoleucina : 6
+	Isoleucina : 11
+	Isoleucina : 14
+	Valina : 14
+	Valina : 6
+	Valina : 3
+	Valina : 18
+	Cisteína : 8
+	Cisteína : 6
+	Triptofano : 29
+	Codão de terminação : 3
+	Codão de terminação : 9
+	Codão de terminação : 15
+
+Sequencia : 18
+	Metionina : 20
+	Fenilalanina : 7
+	Fenilalanina : 5
+	Leucina : 7
+	Leucina : 6
+	Leucina : 8
+	Leucina : 2
+	Leucina : 6
+	Leucina : 8
+	Isoleucina : 6
+	Isoleucina : 7
+	Isoleucina : 10
+	Valina : 4
+	Valina : 4
+	Valina : 2
+	Valina : 8
+	Cisteína : 4
+	Cisteína : 3
+	Triptofano : 16
+	Codão de terminação : 9
+	Codão de terminação : 3
+	Codão de terminação : 19
+
+Sequencia : 19
+	Metionina : 14
+	Fenilalanina : 3
+	Fenilalanina : 6
+	Leucina : 0
+	Leucina : 6
+	Leucina : 5
+	Leucina : 0
+	Leucina : 5
+	Leucina : 7
+	Isoleucina : 4
+	Isoleucina : 4
+	Isoleucina : 3
+	Valina : 3
+	Valina : 4
+	Valina : 2
+	Valina : 6
+	Cisteína : 5
+	Cisteína : 8
+	Triptofano : 11
+	Codão de terminação : 1
+	Codão de terminação : 4
+	Codão de terminação : 9
+
+Sequencia : 20
+	Metionina : 9
+	Fenilalanina : 1
+	Fenilalanina : 2
+	Leucina : 4
+	Leucina : 3
+	Leucina : 2
+	Leucina : 3
+	Leucina : 2
+	Leucina : 3
+	Isoleucina : 3
+	Isoleucina : 7
+	Isoleucina : 7
+	Valina : 3
+	Valina : 1
+	Valina : 3
+	Valina : 6
+	Cisteína : 3
+	Cisteína : 0
+	Triptofano : 9
+	Codão de terminação : 3
+	Codão de terminação : 6
+	Codão de terminação : 9
+
+Sequencia : 21
+	Metionina : 8
+	Fenilalanina : 0
+	Fenilalanina : 2
+	Leucina : 3
+	Leucina : 4
+	Leucina : 2
+	Leucina : 3
+	Leucina : 5
+	Leucina : 11
+	Isoleucina : 3
+	Isoleucina : 5
+	Isoleucina : 5
+	Valina : 4
+	Valina : 4
+	Valina : 8
+	Valina : 7
+	Cisteína : 7
+	Cisteína : 7
+	Triptofano : 11
+	Codão de terminação : 7
+	Codão de terminação : 8
+	Codão de terminação : 5
+
+Sequencia : 1
+	Metionina : 10
+	Fenilalanina : 14
+	Fenilalanina : 12
+	Leucina : 5
+	Leucina : 7
+	Leucina : 5
+	Leucina : 6
+	Leucina : 5
+	Leucina : 7
+	Isoleucina : 9
+	Isoleucina : 5
+	Isoleucina : 4
+	Valina : 9
+	Valina : 4
+	Valina : 1
+	Valina : 5
+	Cisteína : 3
+	Cisteína : 8
+	Triptofano : 9
+	Codão de terminação : 4
+	Codão de terminação : 6
+	Codão de terminação : 9
+
+Sequencia : 2
+	Metionina : 10
+	Fenilalanina : 2
+	Fenilalanina : 1
+	Leucina : 3
+	Leucina : 4
+	Leucina : 1
+	Leucina : 6
+	Leucina : 2
+	Leucina : 4
+	Isoleucina : 2
+	Isoleucina : 1
+	Isoleucina : 2
+	Valina : 5
+	Valina : 2
+	Valina : 1
+	Valina : 5
+	Cisteína : 4
+	Cisteína : 7
+	Triptofano : 5
+	Codão de terminação : 2
+	Codão de terminação : 2
+	Codão de terminação : 7
+
+Sequencia : 3
+	Metionina : 12
+	Fenilalanina : 11
+	Fenilalanina : 5
+	Leucina : 2
+	Leucina : 12
+	Leucina : 8
+	Leucina : 3
+	Leucina : 4
+	Leucina : 9
+	Isoleucina : 9
+	Isoleucina : 4
+	Isoleucina : 6
+	Valina : 2
+	Valina : 7
+	Valina : 1
+	Valina : 12
+	Cisteína : 7
+	Cisteína : 9
+	Triptofano : 20
+	Codão de terminação : 2
+	Codão de terminação : 5
+	Codão de terminação : 9
+
+Sequencia : 4
+	Metionina : 8
+	Fenilalanina : 5
+	Fenilalanina : 5
+	Leucina : 5
+	Leucina : 10
+	Leucina : 9
+	Leucina : 4
+	Leucina : 9
+	Leucina : 10
+	Isoleucina : 6
+	Isoleucina : 2
+	Isoleucina : 6
+	Valina : 5
+	Valina : 4
+	Valina : 1
+	Valina : 9
+	Cisteína : 6
+	Cisteína : 7
+	Triptofano : 15
+	Codão de terminação : 5
+	Codão de terminação : 5
+	Codão de terminação : 9
+
+Sequencia : 5
+	Metionina : 13
+	Fenilalanina : 8
+	Fenilalanina : 5
+	Leucina : 3
+	Leucina : 6
+	Leucina : 5
+	Leucina : 2
+	Leucina : 5
+	Leucina : 9
+	Isoleucina : 3
+	Isoleucina : 6
+	Isoleucina : 6
+	Valina : 5
+	Valina : 5
+	Valina : 3
+	Valina : 8
+	Cisteína : 4
+	Cisteína : 9
+	Triptofano : 9
+	Codão de terminação : 6
+	Codão de terminação : 6
+	Codão de terminação : 13
+
+Sequencia : 6
+	Metionina : 10
+	Fenilalanina : 7
+	Fenilalanina : 9
+	Leucina : 2
+	Leucina : 8
+	Leucina : 4
+	Leucina : 4
+	Leucina : 3
+	Leucina : 9
+	Isoleucina : 7
+	Isoleucina : 4
+	Isoleucina : 5
+	Valina : 8
+	Valina : 5
+	Valina : 4
+	Valina : 7
+	Cisteína : 10
+	Cisteína : 3
+	Triptofano : 16
+	Codão de terminação : 3
+	Codão de terminação : 4
+	Codão de terminação : 5
+
+Sequencia : 7
+	Metionina : 21
+	Fenilalanina : 8
+	Fenilalanina : 6
+	Leucina : 1
+	Leucina : 10
+	Leucina : 4
+	Leucina : 5
+	Leucina : 7
+	Leucina : 8
+	Isoleucina : 9
+	Isoleucina : 9
+	Isoleucina : 9
+	Valina : 4
+	Valina : 4
+	Valina : 3
+	Valina : 10
+	Cisteína : 7
+	Cisteína : 6
+	Triptofano : 23
+	Codão de terminação : 4
+	Codão de terminação : 5
+	Codão de terminação : 14
+
+Sequencia : 8
+	Metionina : 16
+	Fenilalanina : 6
+	Fenilalanina : 3
+	Leucina : 4
+	Leucina : 10
+	Leucina : 2
+	Leucina : 4
+	Leucina : 6
+	Leucina : 4
+	Isoleucina : 6
+	Isoleucina : 9
+	Isoleucina : 7
+	Valina : 9
+	Valina : 5
+	Valina : 4
+	Valina : 7
+	Cisteína : 7
+	Cisteína : 5
+	Triptofano : 14
+	Codão de terminação : 4
+	Codão de terminação : 5
+	Codão de terminação : 12
+
+Sequencia : 9
+	Metionina : 23
+	Fenilalanina : 14
+	Fenilalanina : 15
+	Leucina : 15
+	Leucina : 10
+	Leucina : 17
+	Leucina : 6
+	Leucina : 9
+	Leucina : 11
+	Isoleucina : 13
+	Isoleucina : 10
+	Isoleucina : 2
+	Valina : 10
+	Valina : 3
+	Valina : 4
+	Valina : 3
+	Cisteína : 9
+	Cisteína : 7
+	Triptofano : 23
+	Codão de terminação : 6
+	Codão de terminação : 5
+	Codão de terminação : 9
+
+Sequencia : 10
+	Metionina : 16
+	Fenilalanina : 10
+	Fenilalanina : 4
+	Leucina : 6
+	Leucina : 9
+	Leucina : 5
+	Leucina : 11
+	Leucina : 8
+	Leucina : 5
+	Isoleucina : 7
+	Isoleucina : 6
+	Isoleucina : 9
+	Valina : 7
+	Valina : 6
+	Valina : 5
+	Valina : 8
+	Cisteína : 9
+	Cisteína : 4
+	Triptofano : 17
+	Codão de terminação : 5
+	Codão de terminação : 6
+	Codão de terminação : 9
+
+Sequencia : 11
+	Metionina : 9
+	Fenilalanina : 5
+	Fenilalanina : 3
+	Leucina : 6
+	Leucina : 8
+	Leucina : 7
+	Leucina : 8
+	Leucina : 4
+	Leucina : 9
+	Isoleucina : 3
+	Isoleucina : 10
+	Isoleucina : 8
+	Valina : 7
+	Valina : 7
+	Valina : 5
+	Valina : 11
+	Cisteína : 8
+	Cisteína : 5
+	Triptofano : 15
+	Codão de terminação : 7
+	Codão de terminação : 6
+	Codão de terminação : 9
+
+Sequencia : 12
+	Metionina : 17
+	Fenilalanina : 13
+	Fenilalanina : 9
+	Leucina : 10
+	Leucina : 7
+	Leucina : 6
+	Leucina : 4
+	Leucina : 4
+	Leucina : 10
+	Isoleucina : 14
+	Isoleucina : 11
+	Isoleucina : 6
+	Valina : 7
+	Valina : 5
+	Valina : 7
+	Valina : 12
+	Cisteína : 7
+	Cisteína : 10
+	Triptofano : 11
+	Codão de terminação : 8
+	Codão de terminação : 4
+	Codão de terminação : 18
+
+Sequencia : 13
+	Metionina : 9
+	Fenilalanina : 8
+	Fenilalanina : 2
+	Leucina : 3
+	Leucina : 10
+	Leucina : 4
+	Leucina : 8
+	Leucina : 3
+	Leucina : 6
+	Isoleucina : 2
+	Isoleucina : 8
+	Isoleucina : 5
+	Valina : 9
+	Valina : 1
+	Valina : 3
+	Valina : 8
+	Cisteína : 3
+	Cisteína : 9
+	Triptofano : 13
+	Codão de terminação : 4
+	Codão de terminação : 1
+	Codão de terminação : 8
+
+Sequencia : 14
+	Metionina : 16
+	Fenilalanina : 6
+	Fenilalanina : 8
+	Leucina : 3
+	Leucina : 14
+	Leucina : 7
+	Leucina : 8
+	Leucina : 12
+	Leucina : 12
+	Isoleucina : 11
+	Isoleucina : 3
+	Isoleucina : 11
+	Valina : 8
+	Valina : 3
+	Valina : 3
+	Valina : 12
+	Cisteína : 11
+	Cisteína : 10
+	Triptofano : 21
+	Codão de terminação : 3
+	Codão de terminação : 12
+	Codão de terminação : 12
+
+Sequencia : 15
+	Metionina : 17
+	Fenilalanina : 5
+	Fenilalanina : 8
+	Leucina : 10
+	Leucina : 14
+	Leucina : 10
+	Leucina : 10
+	Leucina : 8
+	Leucina : 14
+	Isoleucina : 14
+	Isoleucina : 13
+	Isoleucina : 11
+	Valina : 8
+	Valina : 3
+	Valina : 4
+	Valina : 10
+	Cisteína : 9
+	Cisteína : 7
+	Triptofano : 19
+	Codão de terminação : 5
+	Codão de terminação : 11
+	Codão de terminação : 20
+
+Sequencia : 16
+	Metionina : 20
+	Fenilalanina : 6
+	Fenilalanina : 6
+	Leucina : 6
+	Leucina : 5
+	Leucina : 3
+	Leucina : 10
+	Leucina : 7
+	Leucina : 15
+	Isoleucina : 8
+	Isoleucina : 5
+	Isoleucina : 7
+	Valina : 6
+	Valina : 7
+	Valina : 5
+	Valina : 21
+	Cisteína : 16
+	Cisteína : 7
+	Triptofano : 23
+	Codão de terminação : 4
+	Codão de terminação : 7
+	Codão de terminação : 15
+
+Sequencia : 17
+	Metionina : 25
+	Fenilalanina : 10
+	Fenilalanina : 9
+	Leucina : 8
+	Leucina : 9
+	Leucina : 6
+	Leucina : 6
+	Leucina : 5
+	Leucina : 6
+	Isoleucina : 6
+	Isoleucina : 11
+	Isoleucina : 14
+	Valina : 14
+	Valina : 6
+	Valina : 3
+	Valina : 18
+	Cisteína : 8
+	Cisteína : 6
+	Triptofano : 29
+	Codão de terminação : 3
+	Codão de terminação : 9
+	Codão de terminação : 15
+
+Sequencia : 18
+	Metionina : 20
+	Fenilalanina : 7
+	Fenilalanina : 5
+	Leucina : 7
+	Leucina : 6
+	Leucina : 8
+	Leucina : 2
+	Leucina : 6
+	Leucina : 8
+	Isoleucina : 6
+	Isoleucina : 7
+	Isoleucina : 10
+	Valina : 4
+	Valina : 4
+	Valina : 2
+	Valina : 8
+	Cisteína : 4
+	Cisteína : 3
+	Triptofano : 16
+	Codão de terminação : 9
+	Codão de terminação : 3
+	Codão de terminação : 19
+
+Sequencia : 19
+	Metionina : 14
+	Fenilalanina : 3
+	Fenilalanina : 6
+	Leucina : 0
+	Leucina : 6
+	Leucina : 5
+	Leucina : 0
+	Leucina : 5
+	Leucina : 7
+	Isoleucina : 4
+	Isoleucina : 4
+	Isoleucina : 3
+	Valina : 3
+	Valina : 4
+	Valina : 2
+	Valina : 6
+	Cisteína : 5
+	Cisteína : 8
+	Triptofano : 11
+	Codão de terminação : 1
+	Codão de terminação : 4
+	Codão de terminação : 9
+
+Sequencia : 20
+	Metionina : 9
+	Fenilalanina : 1
+	Fenilalanina : 2
+	Leucina : 4
+	Leucina : 3
+	Leucina : 2
+	Leucina : 3
+	Leucina : 2
+	Leucina : 3
+	Isoleucina : 3
+	Isoleucina : 7
+	Isoleucina : 7
+	Valina : 3
+	Valina : 1
+	Valina : 3
+	Valina : 6
+	Cisteína : 3
+	Cisteína : 0
+	Triptofano : 9
+	Codão de terminação : 3
+	Codão de terminação : 6
+	Codão de terminação : 9
+
+Sequencia : 21
+	Metionina : 8
+	Fenilalanina : 0
+	Fenilalanina : 2
+	Leucina : 3
+	Leucina : 4
+	Leucina : 2
+	Leucina : 3
+	Leucina : 5
+	Leucina : 11
+	Isoleucina : 3
+	Isoleucina : 5
+	Isoleucina : 5
+	Valina : 4
+	Valina : 4
+	Valina : 8
+	Valina : 7
+	Cisteína : 7
+	Cisteína : 7
+	Triptofano : 11
+	Codão de terminação : 7
+	Codão de terminação : 8
+	Codão de terminação : 5
+
