@@ -1,0 +1,21 @@
+1 - Importe os módulos necessários: SeqIO, Seq e SeqRecord do pacote Bio.
+2 - Defina os caminhos dos arquivos de entrada e saída.
+3 - Defina uma função chamada ler_fasta_dengue para processar o arquivo FASTA de dengue.
+4 - Defina os parâmetros start_codon e end_codon que representam os códons de início e fim, respectivamente.
+5 - Inicialize uma lista vazia chamada registros para armazenar os registros de sequência processados.
+6 - Itere sobre cada sequência no arquivo FASTA usando SeqIO.parse.
+7 - Para cada sequência, obtenha o ID e a sequência de nucleotídeos.
+8 - Para cada um dos três quadros de leitura possíveis, faça o seguinte:a. Inicialize a variável aft_star como None para rastrear a posição do próximo códon de início.b. Inicialize protein_num como 1 para contar o número de proteínas encontradas.c. Inicialize i como 0 para iterar sobre os caracteres da sequência de proteína.d. Traduza a sequência de DNA no quadro de leitura atual em uma sequência de proteína usando translate.e. Enquanto houver caracteres na sequência de proteína, faça o seguinte:i. Se o caractere atual for um códon de início, atualize aft_star para a posição atual.ii. Se o caractere atual for um códon de fim e aft_star não for None, isso indica o final de uma proteína. Nesse caso:
+markdown
+   8.1 - Extraia a sequência de aminoácidos entre `aft_star` e `i`.
+   
+   8.2 - Crie um novo registro `SeqRecord` com a sequência de aminoácidos, ID e descrição apropriados.
+   
+   8.3 - Adicione o registro à lista `registros`.
+   
+   8.4 - Incremente `protein_num` para o próximo número de proteína.
+   
+   8.5 - Reinicie `aft_star` para `None`.
+9  - Avance para o próximo caractere na sequência de proteína.
+10 -Após o término do processamento de todas as sequências, escreva os registros de proteínas no arquivo de saída usando SeqIO.write.
+Chame a função ler_fasta_dengue para iniciar o processamento do arquivo FASTA.
