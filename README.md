@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🧬Bioinformatics-Algorithms🧬</h1>
+  <h1>Bioinformatics-Algorithms</h1>
 </div>
 
 <hr>
